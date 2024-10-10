@@ -1,1 +1,2 @@
-# Simoplus-hospital-website
+# Simoplus-hospital-website 
+This website is about publishing a hospital to the public so that they can know all the services provided to people which are available. This website is also designed in HTML so it talks about the hospital in full details and also the contacts. 
